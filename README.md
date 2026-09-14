@@ -97,7 +97,7 @@ Unemployment Forecasting Model is a data-driven web application (or command-line
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
-© 2026 Eswar Vutukuri, Satwika Malla, Diptokrit Chowdhury, Himanshu Trivedi
+© 2026 Satwika Malla, Eswar Vutukuri, Diptokrit Chowdhury, Himanshu Trivedi
 
 ## Acknowledgments
 
